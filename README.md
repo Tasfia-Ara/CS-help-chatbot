@@ -1,3 +1,6 @@
+**[AWS EC-2 Deployment Link](http://ec2-3-147-126-99.us-east-2.compute.amazonaws.com/)**
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
